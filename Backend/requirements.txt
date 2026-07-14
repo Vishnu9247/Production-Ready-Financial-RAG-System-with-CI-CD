@@ -7,14 +7,8 @@ python-dotenv
 python-multipart
 
 # Document loading and parsing
-pypdf
-pymupdf
 docling
-unstructured[pdf,md,html]
-beautifulsoup4
-lxml
 markdown
-html2text
 
 # Table extraction and data processing
 pandas
@@ -26,14 +20,7 @@ pdfplumber
 
 # Embeddings and LLMs
 openai
-tiktoken
-sentence-transformers
-transformers
-torch
 langchain
 langchain-community
 langchain-openai
 langchain-text-splitters
-llama-index
-llama-index-embeddings-openai
-llama-index-vector-stores-chroma
